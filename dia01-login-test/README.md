@@ -1,3 +1,8 @@
+## 🌐 Ambiente
+- Navegador: Chrome
+- Sistema: Windows
+- Data: 23/03/2026
+  
 🧪 Teste de Login — Site The Internet (http://the-internet.herokuapp.com)
 🔹 Caso de Teste 1
 Título: Login com dados válidos (user and pass: admin)
