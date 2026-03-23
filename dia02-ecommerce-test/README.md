@@ -1,3 +1,8 @@
+## 🌐 Ambiente
+- Navegador: Chrome
+- Sistema: Windows
+- Data: 23/03/2026
+
 # 🧪 Teste E-commerce — Sauce Demo
 
 ## 📌 Objetivo
@@ -51,3 +56,6 @@ Produto removido com sucesso
 
 Durante os testes, o sistema apresentou comportamento estável.
 Fluxo de compra simples e funcional.
+
+## 🧠 Justificativa do teste
+Este cenário foi testado para garantir que usuários inválidos não acessem o sistema.
