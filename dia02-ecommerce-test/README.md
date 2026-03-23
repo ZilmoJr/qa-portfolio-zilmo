@@ -46,3 +46,8 @@ Produto deve ser removido
 
 **Resultado obtido:**
 Produto removido com sucesso
+
+## 🧠 Observações
+
+Durante os testes, o sistema apresentou comportamento estável.
+Fluxo de compra simples e funcional.
