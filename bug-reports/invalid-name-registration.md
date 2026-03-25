@@ -1,4 +1,4 @@
-# 🐞 Bug Report — Cadastro permite nome com caractere inválido
+# 🐞 Bug Report — Campo nome aceita caracteres especiais inválidos no cadastro
 
 ## 📌 Descrição
 Durante o cadastro de usuário, o sistema permite inserir nomes iniciando com caracteres especiais (ex: @), o que pode gerar dados inconsistentes.
@@ -46,3 +46,6 @@ Pode gerar dados inválidos no sistema, afetando relatórios, integrações e ex
 
 ## 💡 Sugestão
 Implementar validação no campo nome para aceitar apenas letras e formatos válidos.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/26a3460c-2ee4-4aba-8647-647160c7d8e8" />
+
